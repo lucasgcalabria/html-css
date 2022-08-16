@@ -1,0 +1,17 @@
+@font-face {
+    font-family:'pokemon';
+    src: url('fonts/Pokemon Solid.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+body{
+    font-family: 'pokemon', 'Times New Roman', Times, serif;
+    background-color: rgb(66, 66, 240);
+    text-align: center;
+}
+h1{
+    font-family:'pokemon', 'Times New Roman', Times, serif;
+    font-size: 3em;
+    text-align: center;
+    color: rgb(211, 211, 35);
+}

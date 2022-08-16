@@ -1,0 +1,12 @@
+body
+{
+     /* Safe combination*/
+/*  Medidas Absolutas: cm, mm, in, px, pt e pc
+    Medidas Relativas: em, ex, rem, vw, vh, %
+    W3C recomenda apenas a px e em
+    Padrão é 16px ou 1em
+    */
+    
+    /*Shorthand de Fonte: Font Style, Font weight, font size, Font family*/
+    font: italic bolder 1em arial, helvetica, sans serif;
+}
